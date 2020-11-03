@@ -1,1 +1,1 @@
-Això és una prova per a fer Commit.
+Segona prova de text en el document afegit en el repositori del manual HTML5.
